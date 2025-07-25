@@ -5,7 +5,7 @@ on:
        branches: [main]
 jobs:
       demo:
-          runs-on: ubuntu-latest
-           steps:
+        runs-on: ubuntu-latest
+        steps:
                - name: Greetings
-               run: echo"hello from azhar"
+                 run: echo"hello azhar"

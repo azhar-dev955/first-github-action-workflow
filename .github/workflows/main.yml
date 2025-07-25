@@ -7,5 +7,5 @@ jobs:
       demo:
         runs-on: ubuntu-latest
         steps:
-               - name: Greetings
-                 run: echo"hello azhar"
+            - name: Greetings
+              run: echo "hello azhar"
